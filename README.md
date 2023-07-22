@@ -19,6 +19,6 @@
 
 🔬 Nele, utilizei Morfologia Matemática, Python, Google Colab, Pandas, Numpy, Aprendizado de Máquina supervisionado, Algoritimos de Classificação, Scikit-Learn e Matplotlib.
 
-📄 Para ter acesso ao projeto submetido ao CNPQ, veja _Projeto_MorfoMat_CNPQ.pdf_
+📄 Para ter acesso ao projeto submetido ao CNPQ, veja [Projeto_CNPQ](https://github.com/MarcosMurguel/RedesNeurais_MorfologiaMatematica/blob/main/Projeto_MorfoMat_CNPQ.pdf)
 
 ⚠️ Algumas considerações importantes a serem feitas: Apesar de estar colocando este código no GitHub no ano de 2023, o projeto foi feito majoritariamente construído no ano de 2021, onde não era necessário, no nosso projeto, aplicar conhecimentos de train test split já que a ideia era apenas aplicarmos o conhecimento matemático na construção das redes neurais morfológicas. Hoje em dia, como estudante da área, sei da necessidade dos dados serem treinados e testados afim de validarmos diversas questões, há um projeto de atualização deste código fonte.
