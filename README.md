@@ -20,5 +20,5 @@
 
 🔬 Nele, utilizei Morfologia Matemática, Python, Google Colab, Pandas, Numpy, Aprendizado de Máquina supervisionado, Algoritimos de Classificação, Scikit-Learn e Matplotlib.
 
-📄 Para ter acesso ao projeto submetido ao CNPQ, veja _nomearquivo_
+📄 Para ter acesso ao projeto submetido ao CNPQ, veja _Projeto_MorfoMat_CNPQ.pdf_
 
